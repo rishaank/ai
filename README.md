@@ -2,7 +2,7 @@
 
 Chatbot is a C program designed to have a conversation with you.
 
-![Steve Chatbot logo](C:\Users\Rishaan\Desktop\Github\chatbot\7f0e9a2c-ec59-4f07-9377-d0e477c33cf2_200x200.png) Steve, a human-like chatbot designed to have conversations.
+![Steve Chatbot logo](https://drive.google.com/file/d/1Qlu4UcOTwtDJeiXOhB7W5HTHia36vHnY/view) Steve, a human-like chatbot designed to have conversations.
 
 ## Installation
 
