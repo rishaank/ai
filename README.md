@@ -1,4 +1,5 @@
 # Chatbot Steve
+# DEPRECEATED
 
 Steve Chatbot is a C program designed to have a conversation with you. He runs inside your terminal. Steve, currently, is not an app with a visual interface.
 
